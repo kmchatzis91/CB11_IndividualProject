@@ -1,0 +1,7 @@
+C:\Users\kmcha\Desktop\indiKots\indiKots\bin\Debug\indiKots.exe.config
+C:\Users\kmcha\Desktop\indiKots\indiKots\bin\Debug\indiKots.exe
+C:\Users\kmcha\Desktop\indiKots\indiKots\bin\Debug\indiKots.pdb
+C:\Users\kmcha\Desktop\indiKots\indiKots\obj\Debug\indiKots.csprojAssemblyReference.cache
+C:\Users\kmcha\Desktop\indiKots\indiKots\obj\Debug\indiKots.csproj.CoreCompileInputs.cache
+C:\Users\kmcha\Desktop\indiKots\indiKots\obj\Debug\indiKots.exe
+C:\Users\kmcha\Desktop\indiKots\indiKots\obj\Debug\indiKots.pdb
